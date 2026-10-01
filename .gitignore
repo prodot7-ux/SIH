@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Environment Variables (NEVER commit these)
+.env.local
+.env.*.local
+
+# Local persistent data store (auto-generated, not for version control)
+.data/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.tsbuildinfo
